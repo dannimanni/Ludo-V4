@@ -5,8 +5,8 @@ from I2C_LCD import I2cLcd
 
 
 from time import sleep_ms
-led = Pin(15, Pin.OUT)
-takki = Pin(14, Pin.IN, Pin.PULL_UP)
+led = Pin(11, Pin.OUT)
+takki = Pin(12, Pin.IN, Pin.PULL_UP)
 
 
 
@@ -29,6 +29,6 @@ while True:
 
         if randomtala == 6:
             led.value(1)
-            sleep_ms(1)
+            sleep_ms(500)
     sleep_ms(100)
     led.value(0)
