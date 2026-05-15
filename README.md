@@ -1,7 +1,6 @@
 # Lúdó 
 #### Daníel og Jökull
 #
-#
 ## Leikreglur.
 ### 1. Í Lúdó eru tveir á móti hvor öðrum. 
 ### 2. Leikurinn gengur út á það, Fyrsti til að komast frá heimareitinum til miðjunna vinnur.
